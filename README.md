@@ -1,4 +1,4 @@
 vim
 ===
 
-My 
+My vim configuration
