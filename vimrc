@@ -6,7 +6,7 @@ colorscheme solarized
 " map leader to ,
 let mapleader = ","
 set mouse=a
-set wildignore=*.o,*.obj,*.bak,*.exe
+set wildignore=*.o,*.obj,*.bak,*.exe,*.class,*.jar
 filetype plugin indent on
 syntax on
 set encoding=utf-8
