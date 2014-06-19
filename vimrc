@@ -81,3 +81,5 @@ nmap <C-Down> ddp
 vmap <C-Up> xkP`[V`]
 vmap <C-Down> xp`[V`]
 
+"Toggle NERDTree
+map <leader>n :NERDTreeToggle<CR>
