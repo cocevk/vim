@@ -5,6 +5,8 @@ set background=dark
 colorscheme solarized
 " map leader to ,
 let mapleader = ","
+" set swp file location
+:set directory=~/.vimswapfiles//
 set mouse=a
 set wildignore=*.o,*.obj,*.bak,*.exe,*.class,*.jar
 filetype plugin indent on

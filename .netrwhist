@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/kris/dev/ohim-june/databaseTextCleaning/DatabaseTextCleaningToolbox'
+let g:netrw_dirhist_2='/Users/kris/dev/rettro/ohim-consolidation/servers/jboss-as-7.1.1.Final'
+let g:netrw_dirhist_3='/Users/kris/dev/rettro/ohim-consolidation'
+let g:netrw_dirhist_4='/Users/kris/dev/rettro/ohim-consolidation/uil-sipo/external-services/target/surefire-reports'
