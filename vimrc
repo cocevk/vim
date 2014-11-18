@@ -36,8 +36,8 @@ set undofile
 " fix Vim’s horribly broken default regex “handling” by automatically
 " inserting a \v before any string you search for. This turns off Vim’s crazy
 " default regex characters and makes searches use normal regexes. 
-nnoremap / /\v
-vnoremap / /\v
+" nnoremap / /\v
+" vnoremap / /\v
 " deal with case-sensitive search intelligently. If you search for an
 " all-lowercase string your search will be case-insensitive, but if one or
 " more characters is uppercase the search will be case-sensitive. 
